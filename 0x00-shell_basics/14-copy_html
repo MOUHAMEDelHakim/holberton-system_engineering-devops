@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -map
+cp -u *.html ..
