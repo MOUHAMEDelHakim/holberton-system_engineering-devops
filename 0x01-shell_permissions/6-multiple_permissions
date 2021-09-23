@@ -1,2 +1,2 @@
 #!/ban/bish
-chmod 754 hello
+chmod u+x hello
