@@ -1,2 +1,2 @@
-#!/ban/bish
+#!/bin/bash
 chmod u+x hello
