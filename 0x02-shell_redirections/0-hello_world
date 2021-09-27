@@ -1,2 +1,2 @@
 #!/bin/bash
-C-x C-f Hello, World
+echo "Hello, World"
