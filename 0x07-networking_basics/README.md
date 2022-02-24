@@ -20,4 +20,4 @@ TCP and UDP.
 TCP/UDP ports List.
 What is ping /ICMP.
 Positional parameters.
-![](https://www.google.com/search?q=network+&tbm=isch&ved=2ahUKEwiJ8q7EqZj2AhUP0oUKHXdeAZwQ2-cCegQIABAA&oq=network+&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoICAAQBxAeEBM6CAgAEAgQHhATUP0GWIcNYKYPaABwAHgAgAH-AogB9AuSAQcwLjQuMi4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=2ncXYomdBo-klwT3vIXgCQ&bih=566&biw=1366#imgrc=vn5GDSaTkNZPNM)
+![](https://www.norman-network.net/sites/default/files/images/122715793%20network.jpg)
